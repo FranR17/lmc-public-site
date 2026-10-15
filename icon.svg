@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">LMC</title>
+  <rect width="128" height="128" rx="24" fill="#19382f"/>
+  <rect x="27" y="48" width="76" height="54" rx="8" fill="none" stroke="#f2f4ec" stroke-width="7"/>
+  <path d="m24 29 74-12 5 26-74 12z" fill="#f2f4ec"/>
+  <path d="m38 27 14 23m7-27 14 23m7-27 14 23" stroke="#19382f" stroke-width="8"/>
+  <path d="m56 60 24 15-24 15z" fill="#f2f4ec"/>
+</svg>
